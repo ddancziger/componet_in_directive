@@ -1,4 +1,4 @@
-Example:
+Angular V2, Importing Components Dynamicly
 
-This is an example I created to show how to use dynamicly loading of Components inside a Directive in Angular V2.
+This is an example I created to show how to use dynamicly loading of Components inside a Directive.
 
