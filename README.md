@@ -1,0 +1,1 @@
+# componet_in_directive
